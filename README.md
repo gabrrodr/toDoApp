@@ -8,7 +8,5 @@ Many more to come!
 
 Here is a demo of my app in action:
 
-<video width="640" height="360" controls>
-  <source src="media/toDo App.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[Click here to view the demo video](media/toDoApp.mp4)
+
